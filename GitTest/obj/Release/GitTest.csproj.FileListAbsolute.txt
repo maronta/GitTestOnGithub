@@ -1,0 +1,8 @@
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\bin\Release\GitTest.exe.config
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\bin\Release\GitTest.exe
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\bin\Release\GitTest.pdb
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Release\GitTest.Form1.resources
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Release\GitTest.Properties.Resources.resources
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Release\GitTest.csproj.GenerateResource.Cache
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Release\GitTest.exe
+c:\users\atsushi\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Release\GitTest.pdb
